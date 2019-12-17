@@ -15,5 +15,5 @@ I'd rather abscond to a cabin in the woods with the one I love, where we would t
 
 Until then...
 
->Fly the black flag.
->Fuck the cowardly.
+>May we remain discomforted by this horrorshow dystopia we live in.
+>May it be a catalyst to live more deliberately; more simply.

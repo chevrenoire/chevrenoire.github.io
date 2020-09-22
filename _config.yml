@@ -1,14 +1,14 @@
 # Jekyll configuration
 #markdown: redcarpet
 #highlighter: pygments
-markdown: kramdown
-highlighter: rouge
-paginate: 5
-language: 'en-uk'
+markdown      : kramdown
+highlighter   : rouge
+paginate      : 5
+language      : 'en-us'
 
 # Website info
-name: 'Hell's Half Acre'
-description: "A blog."
+name          : "Hell's Half Acre"
+description   : "A blog."
 
 short_url: 'deviljames.com'
 #google_analytics: UA-XXXXXXXX-X
@@ -45,13 +45,13 @@ plugins: [jekyll-paginate]
 # or "master" otherwise
 safe: false
 lsi: false
-username: thadeej
-repo: thadeej.github.io
-branch: master
-relative_source: /
-destination: /
-production_url:  https://deviljames.com
-source_url:  https://deviljames.com
+username          : thadeej
+repo              : thadeej.github.io
+branch            : master
+relative_source   : ./
+destination       : ./_site
+production_url    :  https://deviljames.com
+source_url        :  https://deviljames.com
 
 exclude:
   - README.md

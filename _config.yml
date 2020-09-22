@@ -1,45 +1,66 @@
-# Site settings
-title_left    : "Hell's"
-title_right   : "Half Acre" # default: ""
-description   : "A blog"
-keywords      : "minimalist, blog, devil, james, books, reading, minimalism"
-url           : https://deviljames.com # site url
-baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
-cover         : "" # image uri like logo/cover image for site seo
+# Jekyll configuration
+#markdown: redcarpet
+#highlighter: pygments
+markdown: kramdown
+highlighter: rouge
+paginate: 5
+language: 'en-us'
 
-google_analytics  : UA-XXXXX-XX
-twitter_username  : ""
-comments_enabled  : false # if enabled (set to true), please provide your disqus_username
-disqus_shortname  : ""
-postshare_enabled : false
+# Website info
+name: 'Hell's Half Acre'
+description: "A blog."
 
-# Build settings
-permalink   : /:year/:title/
-markdown    : kramdown
-highlighter : rouge
+short_url: 'deviljames.com'
+google_analytics: UA-XXXXXXXX-X
+disqus: username
+# edit baseurl to simply '/' if using as your personal page (instead of a project page)
+baseurl: /
 
-source      : ./
-destination : ./_site
+# Permalinks
+permalink: /:title
+# permalink: /author/:username
+# permalink: /tag/:tag
 
-# Sass configuration
-sass:
-  sass_dir  : assets/scss
-  style     : compressed # expanded
+# gems and other configs
+plugins: [jekyll-paginate]
 
-# Author settings
-author:
-  name     : "Devil James"
+# Additional settings available on the front-matter
+# Site logo in the index.html (as in demo.ghost.io)
+# Author's page cover in _layouts/author.html
+# The same for page.html and tag.html layouts
+# Post's page cover as a per-post basis _posts/...
+# Disqus comments as a per-post basis
+# ...
 
-plugins:
-  - jekyll-sitemap
-  - bourbon
-  - jekyll-paginate
 
-# navbar pages
-navbar:
-  - slug : about
-    title: About
-  - slug : blog
-    title: Blog
+# Settings for builing master branch with travis-ci
+# with jekyll-travis
 
-exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md", "script"]
+# Settings for deploy rake task
+# Username and repo of Github repo, e.g.
+# https://github.com/USERNAME/REPO.git
+# username defaults to ENV['GIT_NAME'] used by Travis
+# repo defaults to USERNAME.github.io
+# Branch defaults to "source" for USERNAME.github.io
+# or "master" otherwise
+safe: false
+lsi: false
+username: thadeej
+repo: thadeej.github.io
+branch: master
+relative_source: /
+destination: /
+production_url:  https://deviljames.com
+source_url:  https://deviljames.com
+
+exclude:
+  - README.md
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - changelog.md
+  - "*.Rmd"
+  - vendor
+  - .travis.yml
+  - node_modules
+  - .git

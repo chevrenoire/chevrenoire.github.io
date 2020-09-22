@@ -4,7 +4,7 @@
 markdown: kramdown
 highlighter: rouge
 paginate: 5
-language: 'en-us'
+language: 'en-uk'
 
 # Website info
 name: 'Hell's Half Acre'

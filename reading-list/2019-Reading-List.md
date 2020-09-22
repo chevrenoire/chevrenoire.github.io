@@ -4,10 +4,10 @@ cover: 'assets/images/books.jpg'
 title: 2019 Reading List
 description: An ongoing list of what I'm reading
 navigation: true
-tags: reading-list
+current: reading-list
 ---
 
-A list of books I'm reading in 2019.
+What I'm reading in 2020.
 
 1. "_Let My People Go Surfing_" by **Yvon Chouinard**
 2. "_I'll Be Gone in the Dark_" by **Michelle McNamara**

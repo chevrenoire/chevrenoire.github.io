@@ -4,7 +4,7 @@ cover: 'assets/images/books.jpg'
 title: 2020 Reading List
 description: An ongoing list of what I'm reading
 navigation: true
-tags: reading-list
+current: reading-list
 ---
 
 What I'm reading in 2020.

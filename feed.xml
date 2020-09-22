@@ -1,28 +1,25 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.name | xml_escape }} - Articles</title>
-    <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
+    <title>Hell's Half Acre - Articles</title>
+    <description>A blog.</description>
     <link>
-    {{ site.url }}</link>
-    {% for post in site.posts %}
-      {% unless post.link %}
+    </link>
+    
+      
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        {% if post.excerpt %}
-          <description>{{ post.excerpt | xml_escape }}</description>
-        {% else %}
-          <description>{{ post.content | xml_escape }}</description>
-        {% endif %}
-        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+        <title>Hell, why not?</title>
+        
+          <description>&lt;p&gt;Who ever knows what to say when you start something like this? To that effect, I’ve started and abandoned these types of things more times than I can count. So, who’s to say this’ll even stick.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
         <link>
-        {{ site.url }}{{ post.url }}</link>
-        <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+        /hello</link>
+        <guid isPermaLink="true">/hello</guid>
       </item>
-      {% endunless %}
-    {% endfor %}
+      
+    
   </channel>
 </rss>

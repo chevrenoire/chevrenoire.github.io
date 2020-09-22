@@ -11,8 +11,8 @@ name: 'Hell's Half Acre'
 description: "A blog."
 
 short_url: 'deviljames.com'
-google_analytics: UA-XXXXXXXX-X
-disqus: username
+#google_analytics: UA-XXXXXXXX-X
+#disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /
 

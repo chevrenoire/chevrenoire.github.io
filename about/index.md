@@ -2,7 +2,8 @@
 layout: page
 title: About
 navigation: true
-logo: 'assets/images/devil_anse.jpg'
+cover: 'assets/images/devil_anse.jpg'
+logo: 'assets/images/ghost.png'
 current: about
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 cover: 'assets/images/sm-depress.jpg'
 navigation: false
-title: Hell, why not?
+title: Social Media and Empathy
 date: 2020-09-23 15:00:00
 tags: tech social-media
 subclass: 'post tag-tech tag-social-media tag'

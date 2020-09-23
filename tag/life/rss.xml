@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>deviljames.com</title>
+   
+   <link></link>
+   <description>A blog.</description>
+   <language>en-us</language>
+   <managingEditor> </managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Hell, why not?</title>
+	  <link>//hello</link>
+	  <author></author>
+	  <pubDate>2020-09-22T18:53:00+00:00</pubDate>
+	  <guid>//hello</guid>
+	  <description><![CDATA[
+	     <p>Who ever knows what to say when you start something like this? To that effect, I’ve started and abandoned these types of things more times than I can count. So, who’s to say this’ll even stick.</p>
+
+<p>But, here it is. A blog&amp;emdash;<em>my</em> blog.</p>
+
+<p>I reckon this is mostly because I’m sick of social media. Sick of the cesspool of vitriol it engenders. While at the same time, I got shit on my mind I need to put somewhere. Notebooks are fine, but generally my hand cramps from writing. Then comes the trying to find something I wrote down three months later. Hence the effort to go digital.</p>
+
+<p>I read a lot. I write. I watch movies. I work in DevOps. And I think awfully long and hard about life, humanity, and what it all means.</p>
+
+<p>Guess that gives you a task of what maybe to expect.</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

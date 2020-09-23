@@ -47,9 +47,9 @@ safe: false
 lsi: false
 username          : thadeej
 repo              : thadeej.github.io
-branch            : gh-pages
-relative_source   : ./
-destination       : ./_site
+branch            : master
+relative_source   : ../
+destination       : ../_site
 production_url    :  https://deviljames.com
 source_url        :  https://deviljames.com
 

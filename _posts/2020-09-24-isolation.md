@@ -26,9 +26,7 @@ Sadly, most folk are prepared for sitting alone with their thoughts.
 
 As you watch _The Lighthoues_, you see how isolation works. How it comes on slow like and makes itself a friend; peppers you with little kisses. How those kisses transition to suckling, and how before you even realize it, it's plum gnawing away at your sanity. The person you were, the ideologies and convictions you held, hell, even your hygiene and personal aesthetics are changed to the point of being unrecognizable.
 
-<p align="center">
-  <img width="300" height="300" src="/assets/images/lighthouse_water.jpeg">
-</p>
+![Robert Pattinson in The Lighthouse](/assets/images/lighthouse_water.jpeg)
 
 _The Lighthouse_ masterfully explores this theme. I'm reminded of **Roman Polanski**'s _Repulsion_. It's far easier to observe the machinations of isolation in something like a 100 minutes long film. It's far more difficult to observe them in the day-to-day. And in this day and age&mdash;especially during a pandemic-induced quarantine&mdash;vigilance of self and sanity should be priority number one. 
 

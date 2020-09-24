@@ -6,7 +6,7 @@ title: Social Media and Empathy
 date: 2020-09-23
 tags: tech social-media
 subclass: 'post tag-tech tag-social-media tag'
-logo: 'assets/images/devil2.png'
+logo: 'assets/images/devil3.png'
 author: dylan
 category: dylan
 ---

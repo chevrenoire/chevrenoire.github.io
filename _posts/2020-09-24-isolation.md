@@ -6,7 +6,7 @@ title: Staying Sane in Isolation
 date: 2020-09-24
 tags: film quarantine
 subclass: 'post tag-film tag-quarantine' 
-logo: 'assets/images/devil2.png'
+logo: 'assets/images/devil3.png'
 author: dylan
 category: dylan
 ---

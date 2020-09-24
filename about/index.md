@@ -3,7 +3,7 @@ layout: page
 title: About
 navigation: true
 cover: 'assets/images/devil_anse.jpg'
-logo: 'assets/images/devil2.png'
+logo: 'assets/images/devil3.png'
 current: about
 ---
 

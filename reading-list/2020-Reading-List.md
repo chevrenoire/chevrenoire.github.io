@@ -5,7 +5,7 @@ title: 2020 Reading List
 description: An ongoing list of what I'm reading
 navigation: true
 current: reading-list
-logo: 'assets/images/devil2.png'
+logo: 'assets/images/devil3.png'
 ---
 
 What I'm reading in 2020.

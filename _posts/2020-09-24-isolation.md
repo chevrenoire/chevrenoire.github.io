@@ -3,7 +3,7 @@ layout: post
 cover: 'assets/images/lighthouse_banner.png'
 navigation: true
 title: Staying Sane in Isolation
-date: 2020-09-24 15:00
+date: 2020-09-24
 tags: film quarantine
 subclass: 'post tag-film tag-quarantine' 
 logo: 'assets/images/devil2.png'

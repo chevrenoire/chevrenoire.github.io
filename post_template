@@ -1,7 +1,7 @@
 ---
 layout: post
 cover: 'assets/images/cabin.jpg'
-navigation: false
+navigation: true
 title: 
 date: 
 tags: 

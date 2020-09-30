@@ -58,7 +58,7 @@ _Actual_ political matters can, and should, be debated. How tax dollars are coll
 
 These are all political topics that, while we may not all agree upon the _whats_ and _hows_, what we can likely all agree upon is that they need solutions.
 
-But, that would require our being on the same team. Instead, we've chosen&mdash;consciously or circumstantially&mdash;to be divided. Instead of _Us_, the people, you know from that often cited document, _The Constiution_), versus _Them_, those who've corrupted our government through, and via, financial gain, and so what we've allowed for is entropic interpersonal in-fighting.
+But, that would require our being on the same team&mdash;or working together as a crew. Instead, we've chosen&mdash;consciously or circumstantially&mdash;to be divided. Instead of _Us_, the people, you know from that often cited document, _The Constiution_), versus _Them_, those who've corrupted our government through, and via, financial gain, and so what we've allowed for is entropic interpersonal in-fighting.
 
 We are simply spinning our wheels, screaming ourselves red in the face at one another.
 

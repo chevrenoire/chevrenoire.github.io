@@ -13,7 +13,8 @@
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}" />
     <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
     <meta name="twitter:url" content="{{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url }}" />
-    <meta name="twitter:image:src" content="{{ site.baseurl }}{% if page.cover %}{{ page.cover }}{% else %}assets/images/dead_old_house.jpg{% endif %}" />
+    <!-- <meta name="twitter:image:src" content="{{ site.baseurl }}{% if page.cover %}{{ page.cover }}{% else %}assets/images/dead_old_house.jpg{% endif %}" /> -->
+    <meta name="twitter:image:src" content="{{ site.baseurl }}{{ page.cover }}" />
 
     <script type="application/ld+json">
 {

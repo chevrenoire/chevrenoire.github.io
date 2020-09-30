@@ -2,7 +2,7 @@
 layout: post
 cover: 'assets/images/usvthem.jpg'
 navigation: true
-title: The Fatal Displacement of Us vs. Them
+title: The Tragic Displacement of Us vs. Them
 date: 2020-09-30
 tags: politics humanity
 subclass: 'post tag-politics tag-humanity' 

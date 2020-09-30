@@ -52,17 +52,17 @@ Crews may not always agree, and they may actually even dislike one another, but 
 
 Unlike teams.
 
-A bigger issue when it comes to matters of political discourse is that we've allowed far too much _personal_ liberty to be politicized within these teams. Our bodies, our races, our sexualities, our creeds, and other personal alignments have no place under scrutiny from anyone other than ourselves, let those of a governing body. Having allowed for these types of issues to become politicized, to separate us, has essentially shutdown any hope for resolute political discourse.
+A bigger issue when it comes to matters of political discourse and perhaps why we are so team-minded is that we've allowed far too much _personal_ liberty to be politicized. Our bodies, our races, our sexualities, our creeds, and other personal alignments have no place under scrutiny from anyone other than ourselves, let those of a governing body. Having allowed for these types of issues to become politicized, to separate us, has essentially shutdown any hope for resolute political discourse.
 
-_Actual_ political matters can, and should, be debated. How tax dollars are collected and used. How we care for our planet. How we provide and maintain clean water to our people. How we feed and shelter our vets and our homeless. How we educate our children. How we provide and pay for higher education. How we maintain peace and protect ourselves. How we afford and obtain medical care. HOW WE CAN GET AWAY FROM BEING RUN INTO THE GROUND BY MONEY-HUNGRY CAPITALIST OVERLORDS. 
+_Actual_ political matters can, and should, be debated, and I firmly believe middle ground can be found. How tax dollars are collected and used. How we care for our planet. How we maintain and provide clean water to our people. How we feed and shelter our vets and our homeless. How we educate our children. How we provide and pay for higher education. How we maintain peace and protect ourselves. How we afford and obtain medical care. HOW WE CAN GET AWAY FROM BEING RUN INTO THE GROUND BY MONEY-HUNGRY CAPITALIST OVERLORDS...I digress  
 
 These are all political topics that, while we may not all agree upon the _whats_ and _hows_, what we can likely all agree upon is that they need solutions.
 
-But, that would require our being on the same team&mdash;or working together as a crew. Instead, we've chosen&mdash;consciously or circumstantially&mdash;to be divided. Instead of _Us_, the people, you know from that often cited document, _The Constiution_), versus _Them_, those who've corrupted our government through, and via, financial gain, and so what we've allowed for is entropic interpersonal in-fighting.
+To solve these problems would require our being on the same team&mdash;or at least working together as a crew. Instead, we've chosen&mdash;consciously or circumstantially&mdash;to be divided. Instead of _Us_, the people, you know from that often cited document, _The Constiution_), versus _Them_, those who've corrupted our government through, and via, financial gain, and so what we've allowed for is entropic interpersonal in-fighting.
 
 We are simply spinning our wheels, screaming ourselves red in the face at one another.
 
-Meanwhile, the real enemies of the state&mdash;_our_ real enemies&mdash; are out there buying themselves another yacht and masterminding sex trafficking multi-level marketing schemes (...an Epstein jab), or, more commonly, raping our land and people via dog-eared legislation, stripping both of everything valuable and leaving us fighting amongst ourselves in the wake of it all.
+Meanwhile, the real enemies of the state&mdash;_our_ mutual enemies&mdash; are out there buying themselves another yacht and masterminding sex trafficking multi-level marketing schemes (...an Epstein jab), or, more commonly, raping our land and people via dog-eared legislation, stripping both of everything valuable and leaving us fighting amongst ourselves in the wake of it all.
 
 It's OK to disagree. It's OK to feel strongly about a thing. It's OK to strongly appose another thing. But it's also OK to chill the fuck out and listen to someone who feels a different way. It's OK not to react to that opposition with vitriol and violence.
 

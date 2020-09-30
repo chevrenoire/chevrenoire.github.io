@@ -46,7 +46,7 @@ Mindful people operate within these associations with some level of empathy, und
 
 We are programmed to hate the _Other_.
 
-In his book, _Shop Class as Soulcraft_, which I highly recommend, Matthew B. Crawford admonishes the common trend among "_thought work_"&mdash;or office-type&mdash;workers to create and promote teams and teamwork. Again, he lands on the notion that teams are in opposition. Instead of teams, what Crawford suggests as provides as an example of different groups working together to achieve a singular goal is the concept of _crews_. If we look at the construction of a new building, which is easy for me as my town is under constant construction, you'll see many unique crews, landscaping, electrical, structural, flooring, roofiing, etc. working together toward the end product of a functioning office or apartment building. 
+In his book, _Shop Class as Soulcraft_, which I highly recommend, Matthew B. Crawford admonishes the common trend among "_thought work_"&mdash;or office-type&mdash;workers to create and promote teams and teamwork. Again, he lands on the notion that teams are in opposition. Instead of teams, what Crawford suggests, and provides as an example, regarding different groups working together to achieve a singular goal is the concept of _crews_. If we look at the construction of a new building, which is easy for me as my town is under constant construction, you'll see many unique crews, landscaping, electrical, structural, flooring, roofiing, etc. working together toward the end product of a functioning office or apartment building. 
 
 Crews may not always agree, and they may actually even dislike one another, but the work drives forward on an agreed upon outcome.
 

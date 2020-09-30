@@ -20,11 +20,11 @@ And it was a shit show.
 
 I have zero desire to dig into what was said&mdash;or more accurately, what was shouted over&mdash;last night, but instead I want to dig into how that _conversation_ played out and how it's a prime example of everything that's fucking wrong with our culture today. 
 
-What we witnessed was a theatrical display of how it's virtually impossible for _Right_ and _Left_ to engage in civil discourse. Granted, the point of these debates isn't for the two candidates or parties to come align on issues or reach compromise, the point is to inform us what their position is on key talking matters. 
+What we witnessed was a theatrical display of how it's virtually impossible for _Right_ and _Left_ to engage in civil discourse. Granted, the point of these debates isn't for the two candidates or parties to align on issues or reach compromise. The point is to inform us, the voting public, what their position is on key issues. 
 
-We didn't get that. We got a lot of speaking _at_ each other, not _to_ each other. 
+We didn't get that. We got a lot of speaking _at_ each other, not _to_ each other. Frankly, what we got was even worse than that.
 
-When we look at this debate for what it is, our utmost example for political discourse today, we have to acknowledge it as problematic. And if you don't see that, you're part of the problem. You may want to visit one of those _sit-here-on-the-couch-and-tell-me-about-yourself_ kind of doctors. Pronto.
+When we look at this debate for what it is, our utmost example for political discourse today, we have to acknowledge it as problematic. And if you don't see it that way, you're part of the problem. You may want to visit one of those _sit-here-on-the-couch-and-tell-me-about-yourself_ kind of doctors. Pronto.
 
 If the two men competing for leadership of this nation can't practice civil discourse, how on earth do we expect different from members of our community; from ourselves?
 
@@ -32,15 +32,15 @@ I have a theory. Now I know folks can get a little _tinfoil hat-y_ with their th
 
 We choose teams. 
 
-Teams divide us.
+And teams divide us.
 
-And please correct me if I'm wrong, but I simply can't think of a sport or a game in which teams compete to share the victory.
+While I'm not talking sports here, sports fandom can do well to lend some depressing examples of just how dangerous team alignment can be. I mean, have you ever been to a tailgate at an SEC/ACC football game? And, soccer hooligans? Those were (perhaps still are) a thing.
 
-While I'm not talking _actual_ sports here, sports fandom can lend some depressing examples of just how dangerous team alignment can be. Have you ever been to a tailgate at an SEC/ACC football game?
+> **Story time**: I'm a Boston Red Sox fan. And, I lived in Manhattan for a handful of years. You see where this is going. I once rode the D train home from The Bronx after a Yankees/Red Sox game. I was razzed and ridiculed for one hundred and twenty seven city blocks. It was all in good fun. In fact, I was invited out for drinks with the group that was the loudest of the bunch. No big deal.  
+>
+> However, another night, standing outside the Barrow Street Ale House, a guy had to be restrained by his friends because he wanted to beat the living shit out of me...because I had on a Red Sox cap.  ![Red Sox/Yankeees fighting](/assets/images/redsoxyankees.jpg)
 
-> **Story time**: I'm a Boston Red Sox fan. And, I lived in Manhattan for a handful of years. You see where this is going. I once rode the D train home from The Bronx after a Yankees/Red Sox game. I was razzed and ridiculed for one hundred and twenty seven city blocks. It was all in good fun. In fact, I was invited out for drinks with the group that was the loudest of the bunch. No big deal. Another night, standing outside the Barrow Street Ale House, a guy had to be restrained by his friends because he wanted to beat the living shit out of me...because I had on a Red Sox cap.  ![Red Sox/Yankeees fighting](/assets/images/redsoxyankees.jpg)
-
-So again, not talking sports here, but the analogy works well in comparison with our social and cultural associations. Many of these "_teams_" we've become a part of are not by our choice, they were simply assigned to us. We don't choose where we're born or the color of our skin, or example. But many social associations we _do_ choose, or at least participate in the choosing. Our religion or lack thereof, our friends, our sports teams, and our political party or leanings for example.
+So again, not talking sports here, but the analogy works well in comparison with our social and cultural associations. Many of these "_teams_" we've become a part of are not by our design. They were simply assigned to us. We don't choose where we're born or the color of our skin, for example. But many social associations we _do_ choose, or at least participate in the choosing. Our religion or lack thereof, our friends, our sports teams, and our political party or leanings for example.
 
 Mindful people operate within these associations with some level of empathy, understanding, and acceptance of those outside of their group. We certainly may proffer playful jabs when our sports teams compete, but it's in good fun. Mindful people listen to and engage with opposing ideas&mdash;after all, it is said that ["_the test of a first-rate intelligence is the ability to hold two opposed ideas in the mind at the same time, and still retain the ability to function_."](https://www.goodreads.com/quotes/22749-before-i-go-on-with-this-short-history-let-me) But mindfulness of opposition and, more so, acceptance of opposition are seemingly rare qualities.
 

@@ -12,7 +12,7 @@ category: dylan
 ---
 
 > “People are clustered into paranoia peer groups because then they can be more easily and predictably swayed.”   
-> Jaron Lanier
+> — Jaron Lanier
 
 Last night was the first of the 2020 Presidential Debates.
 

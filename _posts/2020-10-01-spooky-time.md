@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: 'assets/images/creep_halloween.jpg'
+cover: 'assets/images/creepy_halloween.jpg'
 navigation: true
 title: It's Spooky Season
 date: 2020-10-01

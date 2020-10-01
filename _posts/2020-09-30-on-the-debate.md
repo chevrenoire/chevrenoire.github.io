@@ -64,7 +64,7 @@ We are simply spinning our wheels, screaming ourselves red in the face at one an
 
 Meanwhile, the real enemies of the state&mdash;_our_ mutual enemies&mdash; are out there buying themselves another yacht and masterminding sex trafficking multi-level marketing schemes (...an Epstein jab), or, more commonly, raping our land and people via dog-eared legislation, stripping both of everything valuable and leaving us fighting amongst ourselves in the wake of it all.
 
-It's OK to disagree. It's OK to feel strongly about a thing. It's OK to strongly appose another thing. But it's also OK to chill the fuck out and listen to someone who feels a different way. It's OK not to react to that opposition with vitriol and violence.
+It's OK to disagree. It's OK to feel strongly about a thing. It's OK to strongly oppose another thing. But it's also OK to chill the fuck out and listen to someone who feels a different way. It's OK not to react to that opposition with vitriol and violence.
 
 We are robbing ourselves of the experience and insight of _Others_ by being so fucking belligerent in our stances that we can't shut the fuck up and listen to anyone who thinks differently.
 

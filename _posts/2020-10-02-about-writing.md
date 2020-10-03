@@ -46,6 +46,3 @@ So, yes, maybe writers _do_ write, _always_. It's just maybe not what we've thou
 
 > “A writer is a person for whom writing is more difficult than it is for other people.”  
 > &mdash; Thomas Mann
-
-> **PS**: I fucking love my Olivetti Lettera 32...just like Cormac McCarthy's.  
-> ![Olivetti Lettera 32; just like Cormac McCarthy's](assets/images/olivetti.jpg)

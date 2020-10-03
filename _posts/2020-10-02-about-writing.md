@@ -30,7 +30,9 @@ So if writing isn't _just_ the part where we sit at the keyboard and spill scene
 
 For me writing has always been more like observation. I don't necessarily feel that I'm building a story or creating characters as much as I feel I'm sharing space with them. I've been allowed to bear witness. Images fill my mind's eye, and conversations play between my ears. I'm not making this happen. I'm simply the documentarian. 
 
-But like any good documentarian, this process isn't completely hands-off. It's certainly my job then to record the goings-on. To paint with words what I see and hear. I do that by taking notes, physical or digital, capturing voice recordings, all in an attempt to translate into words what my mind's camera and microphone have collected. _Is this what it feels like to write a novelization of a film?_ But, it's also my job to probe a little. 
+But like any good documentarian, this process isn't completely hands-off. It's certainly my job then to record the goings-on. To paint with words what I see and hear. I do that by taking notes, physical or digital, capturing voice recordings, all in an attempt to translate into words what my mind's camera and microphone have collected. _Is this what it feels like to write a novelization of a film?_ 
+
+But, it's also my job to probe a little. 
 
 Characters are people. And people aren't always forthcoming. Sometimes we have to guide conversations or ask questions to get us to the heart of a thing. Sometimes we have to be the friend/psychotherapist and lead our characters through past experience and trauma. 
 
@@ -40,9 +42,11 @@ So, maybe I'm wrong to scoff at the notion of the "_always writing writer_." May
 
 The reality is that maybe I&mdash;maybe _we_&mdash;need to be more respectful of our process. And understand that, yes, there's something to the typing, the page _does_ matter, but writing is so much more than that.
 
-And so, while I may not hit a daily word count or some other metric which has attained buzzworthy status among the writers' social circles, I _am_ writing. _We_ are writing.
+And so, while I may not hit a daily word count or some other metric which has attained buzzworthy status among the writers' social circles, I _am_ writing. 
 
-So, yes, maybe writers _do_ write, _always_. It's just maybe not what we've thought it looks like. 
+_We_ are writing.
+
+So, yes, maybe writers _do_ write, _always_. It's just maybe not what we've always thought it looks like. 
 
 > “A writer is a person for whom writing is more difficult than it is for other people.”  
 > &mdash; Thomas Mann

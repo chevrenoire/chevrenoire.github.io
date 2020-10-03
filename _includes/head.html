@@ -8,7 +8,7 @@
 <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}" />
 <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
 <!--<meta property="og:url" content="{{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url }}" />-->
-<meta property="og:url" content="{{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url }}" />
+<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
 <meta property="og:image" content="{{ site.baseurl }}{% if page.cover %}{{ page.cover }}{% else %}assets/images/dead_old_house.jpg{% endif %}" />
 
 <meta name="twitter:card" content="summary_large_image" />
@@ -24,7 +24,7 @@
 "@type": "Website",
 "publisher": "{{ site.name }}",
 "name": "{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}",
-"url": "{{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url }}",
+"url": "{{ site.url }}{{ page.url }}",
 "image": "{{ site.baseurl }}{% if page.cover %}{{ page.cover }}{% else %}assets/images/dead_old_house.jpg{% endif %}",
 "description": "{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}"
 }

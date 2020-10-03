@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: 'assets/images/olivetti.jpg'
+cover: 'assets/images/noirTypewriter.png'
 navigation: true
 title: About Writing...
 date: 2020-10-02
@@ -47,4 +47,5 @@ So, yes, maybe writers _do_ write, _always_. It's just maybe not what we've thou
 > “A writer is a person for whom writing is more difficult than it is for other people.”  
 > &mdash; Thomas Mann
 
-**PS**: I fucking love my Olivetti Lettera 32...
+> **PS**: I fucking love my Olivetti Lettera 32...just like Cormac McCarthy's.  
+> ![Olivetti Lettera 32; just like Cormac McCarthy's](assets/images/olivetti.jpg)

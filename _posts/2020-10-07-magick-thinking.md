@@ -2,8 +2,8 @@
 layout: post
 cover: 'assets/images/altar.jpg'
 navigation: true
-title: A TITLE
-date: 2020-01-01
+title: Magick and Our Thoughts
+date: 2020-10-07
 tags: blog
 subclass: 'post tag-blog' 
 logo: 'assets/images/devil3.png'

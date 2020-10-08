@@ -4,8 +4,8 @@ cover: 'assets/images/altar.jpg'
 navigation: true
 title: Magick and Our Thoughts
 date: 2020-10-07
-tags: blog
-subclass: 'post tag-blog' 
+tags: magick
+subclass: 'post tag-magick' 
 logo: 'assets/images/devil3.png'
 author: dylan
 category: dylan

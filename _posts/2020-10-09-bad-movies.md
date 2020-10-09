@@ -38,10 +38,10 @@ I am ever so grateful for the men and women working behind the scenes of these c
 
 You are doing Lucifer's work.
 
-And, when COVID finally becomes a shadow in our collective existence, I'll gather with a few close friends and we'll watch the Severin Films release of Lucio Fulci's "_The Devil's Honey_".
+And, when COVID finally becomes a shadow in our collective existence, I'll gather with a few close friends and we'll watch the *Severin Films* release of Lucio Fulci's "_The Devil's Honey_".
 
 [![Lucio Fulci's "The Devil's Honey"](assets/images/devilHoney.jpg)](https://severin-films.com/shop/the-devils-honey-bluray/)>
 
-After that, we'll watch the upcoming 4K UHD release of _Dial Code Santa Claus_ from _Vinegar Syndrom_.
+After that, we'll watch the upcoming 4K UHD release of _Dial Code Santa Claus_ from *Vinegar Syndrome*.
 
 [![Dial Code Santa Claus - Vinegar Syndrome](assets/images/dialSanta.jpg)](https://vinegarsyndrome.com/collections/frontpage/products/dial-code-santa-claus)

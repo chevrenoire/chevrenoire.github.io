@@ -3,9 +3,9 @@ layout: post
 cover: 'assets/images/BloodGames.jpg'
 navigation: true
 title: When Bad Movies are Great
-date: 2020-01-01
-tags: blog
-subclass: 'post tag-blog' 
+date: 2020-10-09
+tags: movies horror
+subclass: 'post tag-movies tag-horror' 
 logo: 'assets/images/devil3.png'
 author: dylan
 category: dylan

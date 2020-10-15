@@ -8,7 +8,7 @@ current: reading-list
 logo: 'assets/images/devil3.png'
 ---
 
-What I'm reading in 2020.
+What I'm reading in 2019.
 
 1. "_Let My People Go Surfing_" by **Yvon Chouinard**
 2. "_I'll Be Gone in the Dark_" by **Michelle McNamara**

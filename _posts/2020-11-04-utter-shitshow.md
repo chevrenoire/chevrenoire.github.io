@@ -2,7 +2,7 @@
 layout: post
 cover: 'assets/images/dumpsterfire.jpg'
 navigation: true
-title: The United States of Utter Shit
+title: The Divided States of Ubsurdity
 date: 2020-11-04
 tags: humanity america politics election
 subclass: 'post tag-humanity tag-america tag-politics tag-election' 

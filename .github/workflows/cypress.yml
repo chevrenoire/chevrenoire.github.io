@@ -3,7 +3,7 @@ name: Build and deploy Jekyll site to GitHub Pages
 on:
   push:
     branches:
-      - main # or master before October 2020
+      - master # or master before October 2020
 
 jobs:
   cypress-run:
@@ -20,10 +20,3 @@ jobs:
         with:
           # Specify Browser since container image is compile with Firefox
           browser: firefox
-  github-pages:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: helaili/jekyll-action@v2
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}

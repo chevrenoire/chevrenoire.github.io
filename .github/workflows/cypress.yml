@@ -1,9 +1,9 @@
 name: Build and deploy Jekyll site to GitHub Pages
 
 on:
-  page_build.published:
+  page_build:
     branches:
-      - master # or master before October 2020
+      - master
 
 jobs:
   cypress-run:

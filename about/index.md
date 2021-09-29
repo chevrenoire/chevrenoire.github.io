@@ -23,3 +23,5 @@ Until then...
 
 >May we remain discomforted by this horrorshow dystopia we live in.  
 >May it be a catalyst to live more deliberately&mdash;more simply.
+
+Amen.

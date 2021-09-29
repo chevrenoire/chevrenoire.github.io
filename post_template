@@ -1,0 +1,12 @@
+---
+layout: post
+cover: 'assets/images/cabin.jpg'
+navigation: true
+title: A TITLE
+date: 2020-01-01
+tags: blog
+subclass: 'post tag-blog' 
+logo: 'assets/images/devil3.png'
+author: dylan
+category: dylan
+---

@@ -6,14 +6,14 @@ on:
   pull_request:
     branches: [ main ]
 
-env:
-  JEKYLL_UID: 0
-  JEKYLL_GID: 0
-
 jobs:
   build:
 
     runs-on: ubuntu-latest
+
+    env:
+      JEKYLL_UID: 0
+      JEKYLL_GID: 0
 
     steps:
     - uses: actions/checkout@v2

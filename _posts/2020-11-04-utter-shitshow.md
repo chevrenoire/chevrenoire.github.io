@@ -11,7 +11,7 @@ author: dylan
 category: dylan
 ---
 
-> “The government itself, which is only the mode which the people have chosen to execute their will, is equally liable to be abused and perverted before the people can act through it.”  
+> “The government itself, which is only the mode which the people have chosen to execute their will, is equally liable to be abused and perverted before the people can act through it.”
 > &mdash; Henry David Thoreau; _Civil Disobedience_ 
 
 Welp.

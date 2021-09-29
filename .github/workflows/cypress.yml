@@ -2,8 +2,9 @@ name: Build and deploy Jekyll site to GitHub Pages
 
 on:
   page_build:
-    branches:
-      - master
+  release:
+    types:
+      - published
 
 jobs:
   cypress-run:

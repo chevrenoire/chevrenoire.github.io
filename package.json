@@ -1,5 +1,5 @@
 {
-  "name": "thadeej.github.io",
+  "name": "chevrenoire.github.io",
   "version": "1.0.0",
   "description": "website",
   "main": "index.html",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thadeej/thadeej.github.io.git"
+    "url": "git+https://github.com/chevrenoire/chevrenoire.github.io.git"
   },
   "author": "DJ",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thadeej/thadeej.github.io/issues"
+    "url": "https://github.com/chevrenoire/chevrenoire.github.io/issues"
   },
-  "homepage": "https://github.com/thadeej/thadeej.github.io#readme",
+  "homepage": "https://github.com/chevrenoire/chevrenoire.github.io#readme",
   "dependencies": {
     "cypress": "^8.5.0"
   }

@@ -1,0 +1,22 @@
+{
+  "name": "chevrenoire.github.io",
+  "version": "1.0.0",
+  "description": "website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chevrenoire/chevrenoire.github.io.git"
+  },
+  "author": "DJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chevrenoire/chevrenoire.github.io/issues"
+  },
+  "homepage": "https://github.com/chevrenoire/chevrenoire.github.io#readme",
+  "dependencies": {
+    "cypress": "^8.5.0"
+  }
+}

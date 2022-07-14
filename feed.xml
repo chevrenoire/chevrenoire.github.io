@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hell's Half Acre - Articles</title>
+    <description>A blog.</description>
+    <link>
+    </link>
+    
+      
+      <item>
+        <title>Hell, why not?</title>
+        
+          <description>&lt;p&gt;Who ever knows what to say when you start something like this? To that effect, I’ve started and abandoned these types of things more times than I can count. So, who’s to say this’ll even stick.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+        <link>
+        /hello</link>
+        <guid isPermaLink="true">/hello</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
